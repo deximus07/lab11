@@ -1,0 +1,19 @@
+body {
+    width: 100%;
+    background-color: green;
+}
+
+.videos {
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+}
+
+#vid1 {
+    width: 20%;
+    height: 300px;
+}
+
+#vid2 {
+    width: 20%;
+}
